@@ -1,6 +1,7 @@
 # Amazon-clone-Project
 # Amazon Clone Project
-Website link : https://chiragdhongadi.github.io/Amazon-clone-Project/
+
+[![Live Demo](https://img.shields.io/badge/Amazon%20Clone-Live%20Demo-orange?logo=amazon)](https://chiragdhongadi.github.io/Amazon-clone-Project/)
 
 This is a simple front-end clone of the Amazon website built using **HTML** and **CSS**. The project aims to replicate the design and layout of Amazon's homepage while enhancing HTML and CSS skills.
 
